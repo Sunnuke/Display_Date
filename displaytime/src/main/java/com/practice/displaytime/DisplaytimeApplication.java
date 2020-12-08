@@ -1,7 +1,9 @@
 package com.practice.displaytime;
 
 import java.time.LocalDate;
-import java.time.LocalTime;
+import java.time.LocalDateTime;
+import java.time.format.DateTimeFormatter;
+import java.util.Date;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -24,17 +26,19 @@ public class DisplaytimeApplication {
 	
 	@RequestMapping("/date")
 	public String date(Model model) {
-		LocalDate date = LocalDate.now();
-		String currDate = "" + date;
-		model.addAttribute("date", currDate);
+		LocalDateTime dateL = LocalDateTime.now();
+		DateTimeFormatter dateF = DateTimeFormatter.ofPattern("dd-MM-yyyy");
+		String date = dateL.format(dateF);
+		model.addAttribute("date", date);
 		return "date.jsp";
 	}
 	
 	@RequestMapping("/time")
 	public String time(Model model) {
-		LocalTime date = LocalTime.now();
-		String currDate = "" + date;
-		model.addAttribute("date", currDate);
+		LocalDateTime timeL = LocalDateTime.now();
+		DateTimeFormatter timeF = DateTimeFormatter.ofPattern("HH:mm:ss");
+		String time = timeL.format(timeF);
+		model.addAttribute("time", time);
 		return "time.jsp";
 	}
 

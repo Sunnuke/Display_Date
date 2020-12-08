@@ -767,3 +767,23 @@ Caused by: java.io.FileNotFoundException: C:\Users\jcr3x\Desktop\CODES\CODINGDOJ
 2020-12-07 23:40:17,316 [Worker-96: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
 2020-12-07 23:40:17,316 [Worker-96: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
 2020-12-07 23:40:17,317 [Worker-96: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-12-07 23:40:17,318 [Worker-96: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-07 23:40:17,318 [Worker-96: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2020-12-07 23:40:17,318 [Worker-96: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jcr3x\Desktop\CODES\CODINGDOJO\JAVA\SpringWorkspace\Spring_Boot\Display_Date\displaytime\src\test\resources
+2020-12-07 23:43:51,061 [Worker-95: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-07 23:43:51,061 [Worker-95: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2020-12-07 23:43:51,061 [Worker-95: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-12-07 23:43:51,061 [Worker-95: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-12-07 23:43:51,063 [Worker-95: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-07 23:43:51,063 [Worker-95: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2020-12-07 23:43:51,063 [Worker-95: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jcr3x\Desktop\CODES\CODINGDOJO\JAVA\SpringWorkspace\Spring_Boot\Display_Date\displaytime\src\test\resources
+2020-12-07 23:44:06,428 [Worker-101: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-07 23:44:06,428 [Worker-101: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2020-12-07 23:44:06,428 [Worker-101: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-12-07 23:44:06,429 [Worker-101: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-12-07 23:44:06,430 [Worker-101: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-07 23:44:06,430 [Worker-101: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2020-12-07 23:44:06,430 [Worker-101: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jcr3x\Desktop\CODES\CODINGDOJO\JAVA\SpringWorkspace\Spring_Boot\Display_Date\displaytime\src\test\resources
+2020-12-07 23:45:02,159 [Worker-95: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-07 23:45:02,160 [Worker-95: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2020-12-07 23:45:02,160 [Worker-95: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource

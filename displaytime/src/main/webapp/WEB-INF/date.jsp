@@ -7,6 +7,11 @@
 <meta charset="ISO-8859-1">
 <title>Insert title here</title>
 <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
+<script type="text/javascript">
+	var today = new Date();
+	var date = (today.getMonth()+1) + "-" + today.getDate() + "-" + today.getFullYear();
+	alert(date);
+</script>
 </head>
 <body>
 	<h1><c:out value="${date}"/></h1>
